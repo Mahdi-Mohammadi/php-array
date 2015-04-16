@@ -1,24 +1,24 @@
 {
-    "name": "sallar/jdatetime",
+    "name": "mahdi-mohammadi/phpArray",
     "type": "library",
-    "description": "Jalali (Shamsi) DateTime class written in PHP, Supports year higher than 2038",
-    "keywords": ["date", "datetime", "jalali", "jalalidate", "jdatetime","shamsi","iran","farsi","persian","time"],
-    "homepage": "http://sallar.me/projects/jdatetime/",
+    "description": "Php Array Opertion Class",
+    "keywords": ["php", "array", "convert", "diff", "combin"],
+    "homepage": "http://video.varzesh3.com/",
     "license": "MIT",
     "authors": [
         {
-            "name": "Sallar Kaboli",
-            "email": "sallar.kaboli@gmail.com",
-            "homepage": "http://sallar.me",
+            "name": "Mahdi Mohammadi",
+            "email": "sir.m77@gmail.com",
+            "homepage": "http://video.varzesh3.com/",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": ">=5.2.0"
+        "php": ">=5.4.0"
     },
     "autoload": {
         "classmap": [
-            "jdatetime.class.php"
+            "phpArray.class.php"
         ]
     },
     "minimum-stability": "dev"
