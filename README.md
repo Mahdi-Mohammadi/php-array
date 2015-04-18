@@ -48,8 +48,7 @@ Please see [examples.php](examples.php) and [example-static.php](examples-static
 
 
 ##License
-Hash Class was created by [CakePHP](http://cakephp.org) and released under the [MIT License](http://opensource.org/licenses/mit-license.php).
-Php Array Class I rewirite of Hash Class so Php Array released under the [MIT License](http://opensource.org/licenses/mit-license.php) too.
+Hash Class was created by [CakePHP](http://cakephp.org) and released under the [MIT License](http://opensource.org/licenses/mit-license.php) so Php Array released under the [MIT License](http://opensource.org/licenses/mit-license.php) too.
 
 Copyright (C) 2015 Mahdi Mohammadi
 
